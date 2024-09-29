@@ -1,0 +1,43 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/lenovo/OneDrive/«·„” ‰œ« /NetBeansProjects/mavenproject/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/lenovo/OneDrive/«·„” ‰œ« /NetBeansProjects/mavenproject/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'mavenproject 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'mavenproject 1.0-SNAPSHOT API'
+com.mycompany.mavenproject
+C:\Users\lenovo\OneDrive\«·„” ‰œ« \NetBeansProjects\mavenproject\src\main\java = 1680262874963
+C:\Users\lenovo\OneDrive\«·„” ‰œ« \NetBeansProjects\mavenproject\target\site\apidocs\allclasses-index.html = 1680263544400
+C:\Users\lenovo\OneDrive\«·„” ‰œ« \NetBeansProjects\mavenproject\target\site\apidocs\allpackages-index.html = 1680263544404
+C:\Users\lenovo\OneDrive\«·„” ‰œ« \NetBeansProjects\mavenproject\target\site\apidocs\element-list = 1680263544328
+C:\Users\lenovo\OneDrive\«·„” ‰œ« \NetBeansProjects\mavenproject\target\site\apidocs\help-doc.html = 1680263544429
+C:\Users\lenovo\OneDrive\«·„” ‰œ« \NetBeansProjects\mavenproject\target\site\apidocs\index-all.html = 1680263544420
+C:\Users\lenovo\OneDrive\«·„” ‰œ« \NetBeansProjects\mavenproject\target\site\apidocs\index.html = 1680263544424
+C:\Users\lenovo\OneDrive\«·„” ‰œ« \NetBeansProjects\mavenproject\target\site\apidocs\jquery-ui.overrides.css = 1680263544451
+C:\Users\lenovo\OneDrive\«·„” ‰œ« \NetBeansProjects\mavenproject\target\site\apidocs\member-search-index.js = 1680263544409
+C:\Users\lenovo\OneDrive\«·„” ‰œ« \NetBeansProjects\mavenproject\target\site\apidocs\module-search-index.js = 1680263544406
+C:\Users\lenovo\OneDrive\«·„” ‰œ« \NetBeansProjects\mavenproject\target\site\apidocs\overview-tree.html = 1680263544388
+C:\Users\lenovo\OneDrive\«·„” ‰œ« \NetBeansProjects\mavenproject\target\site\apidocs\package-search-index.js = 1680263544407
+C:\Users\lenovo\OneDrive\«·„” ‰œ« \NetBeansProjects\mavenproject\target\site\apidocs\script.js = 1680263544434
+C:\Users\lenovo\OneDrive\«·„” ‰œ« \NetBeansProjects\mavenproject\target\site\apidocs\search.js = 1680263544438
+C:\Users\lenovo\OneDrive\«·„” ‰œ« \NetBeansProjects\mavenproject\target\site\apidocs\serialized-form.html = 1680263544373
+C:\Users\lenovo\OneDrive\«·„” ‰œ« \NetBeansProjects\mavenproject\target\site\apidocs\stylesheet.css = 1680263544432
+C:\Users\lenovo\OneDrive\«·„” ‰œ« \NetBeansProjects\mavenproject\target\site\apidocs\tag-search-index.js = 1680263544411
+C:\Users\lenovo\OneDrive\«·„” ‰œ« \NetBeansProjects\mavenproject\target\site\apidocs\type-search-index.js = 1680263544408
