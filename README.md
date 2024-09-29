@@ -1,0 +1,1 @@
+This section is dedicated to Object Oriented Programming (OOP) training projects and programs using Java. It includes a set of programs developed during the training period, and aims to enhance the understanding and practice of OOP concepts such as inheritance, polymorphism, and encapsulation.
